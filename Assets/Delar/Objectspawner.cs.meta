@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b43fb620e62f1849a6bdd3c20ed3bcb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - freespin: {fileID: 2800000, guid: fb2817e8b04e0bd4b9d92968fb87ea26, type: 3}
+  - kikare: {fileID: 2800000, guid: 2fe816967066ab44982b598b42df40b6, type: 3}
+  - Gun: {fileID: 2800000, guid: 2efd7d1a40c053a41955e3a62755fea5, type: 3}
+  - Map: {fileID: 2800000, guid: f1d0afe881c583b40b77ffdd6a2a5075, type: 3}
+  - kompass: {fileID: 2800000, guid: 78a823587bbd5594398886db75c56690, type: 3}
+  - "palmtr\xE4d": {instanceID: 0}
+  - skalle: {fileID: 2800000, guid: 70bdb66343697914ab9bdaea7ae3f86d, type: 3}
+  - Ratt: {fileID: 2800000, guid: 608481e7086bb1b4cbe108360b16a88f, type: 3}
+  - Ship: {fileID: 2800000, guid: 1aa727a5cb76ada40bc2c78aa9e37c96, type: 3}
+  - Chest: {fileID: 2800000, guid: 1095e0cebc9bbb144a20cf6d22d8f374, type: 3}
+  - papegoja: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
